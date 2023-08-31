@@ -2,7 +2,7 @@
  * gipJson.h
  *
  *  Created on: Mar 11, 2023
- *      Author: Noyan Culum
+ *      Author: Noyan Culum & Ecem Yaglioglu
 */
 
 #ifndef SRC_GIPJSON_H_

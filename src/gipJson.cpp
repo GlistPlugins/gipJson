@@ -2,7 +2,7 @@
  * gipJson.cpp
  *
  *  Created on: Mar 11, 2023
- *      Author: Noyan Culum
+ *      Author: Noyan Culum & Ecem Yaglioglu
  */
 
 #include "gipJson.h"
